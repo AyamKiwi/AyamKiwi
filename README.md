@@ -1,7 +1,7 @@
 <!-- Title -->
 <p align="center">
   Rahman Wicaksono, a.k.a
-  <img src=AyamKiwi_Typo.svg width=1000>
+  <img src=AyamKiwi_Typo.svg width=1000, style="background-color: black;">
   Mathematics <span>&#8226;</span> Digital Multimedia <span>&#8226;</span> Software Development
 </p>
 
